@@ -1,0 +1,4 @@
+C:\Users\alexe\Desktop\Проекты C\Project1\x64\Debug\Project1.exe
+C:\Users\alexe\Desktop\АОиП\Задание 1. Задача 12\x64\Debug\Project1.exe
+C:\Users\alexe\Desktop\БГУИР\ОАиП\Лабораторная работа №1\Задание 1. Задача 12\x64\Debug\Project1.exe
+C:\Users\alexe\Desktop\Лабораторная работа №1\Задание 1. Задача 12\x64\Debug\Project1.exe

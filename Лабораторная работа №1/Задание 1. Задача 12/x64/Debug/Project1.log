@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\alexe\Desktop\Лабораторная работа №1\Задание 1. Задача 12\FileName.c(17,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\alexe\Desktop\Лабораторная работа №1\Задание 1. Задача 12\FileName.c(19,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\alexe\Desktop\Лабораторная работа №1\Задание 1. Задача 12\FileName.c(21,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\alexe\Desktop\Лабораторная работа №1\Задание 1. Задача 12\x64\Debug\Project1.exe

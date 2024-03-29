@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(29,26): warning C4090: функция: разные квалификаторы "const"
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(32,32): warning C4090: функция: разные квалификаторы "const"
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(39,22): warning C4090: функция: разные квалификаторы "const"
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(41,15): warning C4090: функция: разные квалификаторы "const"
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(88): warning C4716: sum: должна возвращать значение
+C:\Users\alexe\Desktop\Laba 3\Ex1-3\FileName.c(70): warning C4716: max_element: должна возвращать значение
+  Ex1-3.vcxproj -> C:\Users\alexe\Desktop\Laba 3\Ex1-3\x64\Debug\Ex1-3.exe
