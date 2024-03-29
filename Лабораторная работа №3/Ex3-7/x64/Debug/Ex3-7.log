@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\alexe\Desktop\Laba 3\Ex3-7\FileName.c(36,26): warning C4020: compare: слишком много фактических параметров
+C:\Users\alexe\Desktop\Laba 3\Ex3-7\FileName.c(56,68): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\alexe\Desktop\Laba 3\Ex3-7\FileName.c(76): warning C4716: compare: должна возвращать значение
+  Ex3-7.vcxproj -> C:\Users\alexe\Desktop\Laba 3\Ex3-7\x64\Debug\Ex3-7.exe

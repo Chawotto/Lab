@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\alexe\Desktop\BSUIR\ОАиП\Лабораторная работа №4\Ex2-1\FileName.c(121,12): warning C4047: функция: "const char *const " отличается по уровням косвенного обращения от "int"
+C:\Users\alexe\Desktop\BSUIR\ОАиП\Лабораторная работа №4\Ex2-1\FileName.c(121,12): warning C4024: printf: различные типы для формального и фактического параметров 1
+C:\Users\alexe\Desktop\BSUIR\ОАиП\Лабораторная работа №4\Ex2-1\FileName.c(82): warning C4716: editedmatrix: должна возвращать значение
+  Ex2-1.vcxproj -> C:\Users\alexe\Desktop\BSUIR\ОАиП\Лабораторная работа №4\Ex2-1\x64\Debug\Ex2-1.exe
